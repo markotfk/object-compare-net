@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="compareNet/Main.cs">
+    <Files>
+      <File FileName="compareNet/Main.cs" Line="12" Column="4" />
+      <File FileName="compareNet/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="compareNet/ObjectComparer.cs" Line="15" Column="18" />
+      <File FileName="compareNet/TestClassForCompare.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/mtfk/dev/c#/compareNet/compareNet/compareNet/ObjectComparer.cs" line="12" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
